@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="lijie@10.216.10.181:22">
+    <serverData>
+      <paths name="lijie@10.216.10.181:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/lijie/few_shot_gaze" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

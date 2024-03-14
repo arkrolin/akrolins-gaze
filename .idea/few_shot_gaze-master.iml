@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/whl" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote Python 3.7.16 (sftp://lijie@10.216.10.181:22/media/lijie/anaconda/anaconda3/envs/few_shot/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
