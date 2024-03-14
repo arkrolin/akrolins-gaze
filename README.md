@@ -1,7 +1,7 @@
 # akrolins-gaze
 few_shot_gaze for Graduation Design
 
-a graduation design for Reproducte and optimizate Seonwook Park' work [few_shot_gaze](https://github.com/NVlabs/few_shot_gaze}
+a graduation design for Reproducte and optimizate Seonwook Park' work [few_shot_gaze](https://github.com/NVlabs/few_shot_gaze）
 
 ```
 @inproceedings{Park2019ICCV,
